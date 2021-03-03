@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             // Text("Platform",style: TextStyle(color: Platform.isAndroid?Colors.red:Colors.blue),),
             Text(
-              "Sanchit",
+              "Verma",
               style: TextStyle(color: kIsWeb ? Colors.red : Colors.yellow),
             )
           ],
